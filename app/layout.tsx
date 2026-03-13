@@ -11,7 +11,7 @@ import { ThemeProvider } from "./provider";
 
 
 export const metadata: Metadata = {
-  title: "Adrian's Portfolio",
+  title: "Sandy_Portfolio",
   description: "Modern & Minimal JS Mastery Portfolio",
 };
 
